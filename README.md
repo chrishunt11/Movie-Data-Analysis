@@ -1,10 +1,10 @@
+![Movie Data Analysis](https://github.com/chrishunt11/Project-3/assets/123383359/5f6b9cda-51ab-4939-a4a2-e2b718c60929)
+
 # Movie Data Analysis
 
 **Author**: Christopher Hunt Jr.
 
-![Movie Data Analysis](https://github.com/chrishunt11/Project-3/assets/123383359/5f6b9cda-51ab-4939-a4a2-e2b718c60929)
-
-## Unveiling Trends in Movie Data
+## Unveiling Trends in Movie Data (2000-2001)
 
 ### Business Challenge:
 
