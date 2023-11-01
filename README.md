@@ -18,10 +18,6 @@ APIs such as [IMDb API](https://www.imdb.com/interfaces/) were leveraged to fetc
 
 The data used for this analysis spans from the year 2000 to 2001, providing a snapshot of the film industry during that specific time frame.
 
-### Data Dictionary:
-
-Access the [Data Dictionary](link-to-your-data-dictionary) for a comprehensive understanding of the dataset.
-
 ### API Integration:
 
 The analysis heavily relies on the integration of external APIs, allowing for real-time updates and a more enriched dataset. This ensures that the analysis is based on the latest and most accurate information available.
