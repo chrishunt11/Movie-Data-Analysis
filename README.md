@@ -88,7 +88,7 @@ These results highlight the genres that have historically performed well in term
 
 ### Conclusion:
 
-This analysis, based on real-time data from external APIs, subsequently organized in an SQL database, spans from the year 2000 to 2001. It provides valuable insights into the factors influencing movie revenue and ratings. The Jupyter Notebook contains detailed code and visualizations, serving as a valuable resource for future decision-making in the film industry.
+This analysis, based on real-time data from external APIs, subsequently organized in an SQL database, spans from the year 2000 to 2001. It provides valuable insights into the factors influencing movie revenue and ratings.
 
 #### Contact Information:
 
